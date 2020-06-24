@@ -16,3 +16,10 @@ DREB20
 Activador transcripcional que se une específicamente a la secuencia de ADN 5'-[AG]CCGAC-3'. La unión al elemento C-repeat/DRE media una transcripción inducible por alta salinidad y deshidratación.
 
 GASA3
+Proteína regulada por Gibberellin que puede funcionar en pasos hormonales controlados del desarrollo como la germinación de semillas, la floración y la maduración de las semillas.
+
+CRA1
+Proteína de almacenamiento.
+
+AGL67
+Molecular function.
